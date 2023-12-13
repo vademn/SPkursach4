@@ -1,0 +1,3 @@
+/home/v_kravchenko_io12/SPkursach4/CMakeFiles/rebuild_cache.dir
+/home/v_kravchenko_io12/SPkursach4/CMakeFiles/Calculator.dir
+/home/v_kravchenko_io12/SPkursach4/CMakeFiles/edit_cache.dir
